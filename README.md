@@ -64,7 +64,7 @@ const Radit = {
 # 👀 Total Visitors
 
 <p align="center">
-  <img src="https://count.getloli.com/@G4NGGAAA?name=G4NGGAAA&theme=gelbooru"/>
+  <img src="https://count.getloli.com/@R4DITT?name=R4DITT&theme=booru-lewd&padding=4&offset=4&align=center&scale=2&pixelated=1&darkmode=auto&num=0147"/>
 </p>
 
 ---
