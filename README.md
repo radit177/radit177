@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm R4dittt</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/gb6xh8.mp4" width="90%">
+  <img src="https://files.catbox.moe/368uoo.gif" width="90%">
 </p>
 
 <p align="center">
