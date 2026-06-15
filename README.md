@@ -5,6 +5,12 @@
   <img src="https://files.catbox.moe/368uoo.gif" width="90%">
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="Ular Kontribusi" src="https://githubusercontent.com">
+</picture>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=italic&size=25&pause=2000&center=true&width=435&lines=Radit+DVC;AI+LEARNER;INDONESIAN+DEVELOPER;BACKEND+DEVELOPER;CYBER+SECURITY+ENTHUSIAST;BOT+DEVELOPER" />
 </p>
