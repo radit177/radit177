@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=RADIT+DVC;AI+LEARNER;INDONESIAN+DEVELOPER;CYBER+SECURITY+ENTHUSIAST;FRONTED+DEVELOPER;BACKEND+DEVELOPER" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=italic&size=25&pause=2000&center=true&width=435&lines=Radit+DVC;AI+LEARNER;INDONESIAN+DEVELOPER;BACKEND+DEVELOPER;CYBER+SECURITY+ENTHUSIAST;BOT+DEVELOPER" />
 </p>
 
 <p align="center">
