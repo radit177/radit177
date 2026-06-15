@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=G4NGGAAA&label=Profile+Views&color=3B82F6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=R4DITTT&label=Profile+Views&color=3B82F6&style=flat" />
 <img src="https://img.shields.io/github/followers/G4NGGAAA?label=Followers&style=social" />
 <img src="https://img.shields.io/github/stars/G4NGGAAA?label=Stars&style=social" />
 <img src="https://img.shields.io/github/last-commit/G4NGGAAA/G4NGGAAA?color=3B82F6&label=Last%20Update" />
